@@ -1,1 +1,2 @@
-Machine-learning-Excercises
+Machine learning Programming Excercises
+Coursera
